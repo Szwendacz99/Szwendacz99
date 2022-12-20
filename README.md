@@ -4,6 +4,5 @@
   does know basics of other languages like Java, C/C++, or 8051 assembly (?).  
   They usually automate stuff, but sometimes   
   might just flood network with empty UDP packets.
-- Linux fanboy, KDE Plasma enjoyer, ~~Arch~~ Fedora user ~~btw~~
-- Editor of choice: KDE Kate
+- Linux fanboy, KDE Plasma enjoyer, ~~Arch~~ Fedora user ~~btw~~, neovim prisoner
 - Practices extreme sports like exposing personal web services to the world
