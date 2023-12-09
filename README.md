@@ -6,3 +6,5 @@
   might just flood network with empty UDP packets.
 - Linux fanboy, KDE Plasma enjoyer, ~~Arch~~ Fedora user ~~btw~~, neovim prisoner
 - Practices extreme sports like exposing selfhosted web services to the world
+
+<a rel="nofollow" href="https://social.linux.pizza/@Szwendacz">Mastodon</a>
