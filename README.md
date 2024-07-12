@@ -5,6 +5,7 @@
   They usually automate stuff, but sometimes   
   might just flood network with empty UDP packets.
 - Linux fanboy, KDE Plasma enjoyer, ~~Arch~~ Fedora user ~~btw~~, neovim prisoner
-- Homelab, selfhosted all the way.
+- .. and containers addict
+- Homelab, selfhosted all the way
 - Practices extreme sports like exposing selfhosted web services to the world
-- Bike riding noob.
+- Bike riding noob
