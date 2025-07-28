@@ -1,4 +1,4 @@
-- Junior System Administrator
+- System Administrator
 - 5th year student in Computer Science at Cracow University of Technology
 - Sometimes writes scripts or small programs in Python, Bash,   
   does (or did) know basics of other languages like Java, C/C++, or 8051 assembly (?).  
